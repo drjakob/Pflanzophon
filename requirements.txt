@@ -1,0 +1,4 @@
+elevenlabs[pyaudio]
+python-dotenv
+gpiozero
+lgpio

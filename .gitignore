@@ -1,0 +1,18 @@
+# Geheimnisse – niemals committen (API-Key, Agent-ID)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Audio-Testaufnahmen
+*.wav
+
+# macOS / Google Drive
+.DS_Store
+Icon?
+.tmp.driveupload/
